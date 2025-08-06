@@ -22,24 +22,24 @@ Multi-Modality Image Fusion (MMIF) aims to reconstruct an informative image from
 
 ### Training Procedure of SDCUN
 
-![training_procedure](/Users/op_dog/On_my_own/Research/Github/SDCUN/Figures/training_procedure.png)
+![training_procedure](./Figures/training_procedure.png)
 
 ### Quantitative comparison of IVF with SOTAs
 
-![metrics_IVF](/Users/op_dog/On_my_own/Research/Github/SDCUN/Figures/metrics_IVF.png)
+![metrics_IVF](./Figures/metrics_IVF.png)
 
 ### Visual comparison of IVF with SOTAs
 
-![IVF_visual](/Users/op_dog/On_my_own/Research/Github/SDCUN/Figures/visual_IVF.png)
+![IVF_visual](./Figures/visual_IVF.png)
 
 ### Quantitative comparison of MIF with SOTAs
 
-![metrics_MIF](/Users/op_dog/On_my_own/Research/Github/SDCUN/Figures/metrics_MIF.png)
+![metrics_MIF](./Figures/metrics_MIF.png)
 
 ### Visual comparison of MIF with SOTAs
 
-![MIF_visual](/Users/op_dog/On_my_own/Research/Github/SDCUN/Figures/visual_MIF.png)
+![MIF_visual](./Figures/visual_MIF.png)
 
 ### Performance comparison on downstream applications
 
-![downstream applications](/Users/op_dog/On_my_own/Research/Github/SDCUN/Figures/metrics_downstream.png)
+![downstream applications](./Figures/metrics_downstream.png)
