@@ -1,7 +1,7 @@
 # SDCUN
 Code, model and dataset split for our paper: **Towards Interpretable Multi-Modality Image Fusion: A Prior-Free Bayesian Framework**.
 
-[Shihan Ma](https://github.com/op-dog/SDCUN), [Hong Song](https://www.inavilab.com/teachers/sh.html), [Jinfu Li](https://github.com/Bitlijinfu), [Yucong Lin](https://www.inavilab.com/teachers/lyc.html), [Ting Wang](https://openreview.net/profile?id=~Ting_Wang25), [Jianghan Xia](https://github.com/DarkIceField), [Yuanyuan Wang](https://www.inavilab.com/teachers/wyy.html), [Long Shao](https://www.inavilab.com/teachers/sl.html), [Jian Yang](https://www.inavilab.com/teachers/yj.html)
+[Shihan Ma](https://github.com/op-dog/SDCUN), [Hong Song](https://www.inavilab.com/teachers/sh.html), [Jinfu Li](https://github.com/Bitlijinfu), [Yucong Lin](https://www.inavilab.com/teachers/lyc.html), [Ting Wang](https://openreview.net/profile?id=~Ting_Wang25), [Jianghan Xia](https://github.com/DarkIceField), [Yuanyuan Wang](https://www.inavilab.com/teachers/wyy.html), [Long Shao](https://www.inavilab.com/teachers/sl.html) and [Jian Yang](https://www.inavilab.com/teachers/yj.html)
 
 ## Update
 
