@@ -20,9 +20,9 @@ Multi-Modality Image Fusion (MMIF) aims to reconstruct an informative image from
 
 ![SDCUN](./Figures/framework.png)
 
-### Training Procedure of SDCUN
+### Training procedure of SDCUN
 
-<img src="./Figures/training_procedure.png" alt="training_procedure" style="zoom:25%;" />
+![training_procedure](./Figures/training_procedure.png)
 
 ### Quantitative comparison of IVF with SOTAs
 
